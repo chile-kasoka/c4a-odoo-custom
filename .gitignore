@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+
+# Odoo specific
+*.pyc
+*.swp
+*.swo
+*.bak
+*.tmp
+*.zip
+*.tar.gz
+*.egg-info
+*.pydevproject
+*.project
+*.iml
+.idea/
+.vscode/
+.odoo/
+
+# LFS-eligible files
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
